@@ -1,0 +1,33 @@
+.slide-color {
+    background-color: #feeae9;
+}
+.categories-watch{
+    background-color: #f8a521;
+}
+
+.categories-bag{
+    background-color: #ff1772;
+}
+
+.categories-shoes{
+    background-color: #241ed5;
+}
+
+.shoe img{
+    width: 100%;
+}
+
+.btn-color{
+    background-color: #ff4891;
+    border-radius: 10px;
+    padding: 9px 18px;
+    border: none;
+}
+
+.subscribe-color{
+    background-color: #feeae9;
+}
+
+/* .btn-subscribe{
+    background-color: #0d6efd;
+} */
